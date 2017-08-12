@@ -1,1 +1,1 @@
-flask_app_poc
+A flask app PoC for overlaying infrastructure projects on a Google map.
