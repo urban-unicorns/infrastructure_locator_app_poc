@@ -1,0 +1,11 @@
+name: peoria_hackathon
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - flask
+  - geopandas
+  - python-dotenv
+  - pip
+  - pip:
+    - flask-googlemaps
